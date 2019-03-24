@@ -1,11 +1,6 @@
+platform :ios, '11.0'
 use_frameworks!
 
 target 'ZoomableMapInteraction_Example' do
   pod 'ZoomableMapInteraction', :path => '../'
-
-  target 'ZoomableMapInteraction_Tests' do
-    inherit! :search_paths
-
-    
-  end
 end

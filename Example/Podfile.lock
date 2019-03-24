@@ -1,0 +1,16 @@
+PODS:
+  - ZoomableMapInteraction (1.0.0)
+
+DEPENDENCIES:
+  - ZoomableMapInteraction (from `../`)
+
+EXTERNAL SOURCES:
+  ZoomableMapInteraction:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZoomableMapInteraction: 6c757869089cfacaf42d0c61008a7de74aa7099f
+
+PODFILE CHECKSUM: e19daaee08bbe5f67b19af6255b6bbfb3fa76fcf
+
+COCOAPODS: 1.6.1

@@ -1,0 +1,6 @@
+framework module ZoomableMapInteraction {
+  umbrella header "ZoomableMapInteraction-umbrella.h"
+
+  export *
+  module * { export * }
+}
